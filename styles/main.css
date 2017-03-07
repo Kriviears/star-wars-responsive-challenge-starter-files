@@ -6,13 +6,16 @@ main .row {
 }
 
 .card {
-  height: 200px;
   text-align: center;
-  padding-top: 30px;
-  border:1px grey;
+  margin-top: 30px;
+  border:1px solid grey;
 }
 
-nav{
+.card img{
+	width:100%;
+}
+
+header{
 	background-color: gold;
 	text-align: left;
 }
