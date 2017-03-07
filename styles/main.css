@@ -1,5 +1,4 @@
 main {
-  padding-top: 100px;
 }
 
 main .row {
@@ -10,4 +9,10 @@ main .row {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+  border:1px grey;
+}
+
+nav{
+	background-color: gold;
+	text-align: left;
 }
